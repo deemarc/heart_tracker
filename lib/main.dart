@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'homepage/homepage.dart';
+import 'package:heart_tracker/homepage.dart';
 final app_title = 'WhiteBearBot HeartTracker';
 void main() => runApp(MyApp());
 
